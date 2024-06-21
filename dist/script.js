@@ -15,4 +15,4 @@ $(document).ready(function () {
     );
     $("#myModal").modal();
   });
-}); //EOF Document.ready
+});
